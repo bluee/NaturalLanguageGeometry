@@ -8,7 +8,7 @@ Sample app utilizing C#, Web API 2, ASP MVC, WebAPI, AngularJS, PaperJS and Text
 * Unit tests
 * Validation / error checking
 * Use .NET Core with NancyFX to reduce WebAPI bloat
-* Missing shape support for: isosceles triangle, oval, parallelogram & isosceles triangles
+* Missing shape support for: isosceles triangle, oval & parallelograms
 
 ### Pre-requisites
 

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalLanguageGeometry.API", "NaturalLanguageGeometry.API\NaturalLanguageGeometry.API.csproj", "{6FE9B7F0-4909-482B-A754-E1893FFCBF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalLanguageGeometry.Parser", "NaturalLanguageGeometry.Parser\NaturalLanguageGeometry.Parser.csproj", "{CEF11EF5-E0E7-4483-9AFF-7FF8CC96AADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE9B7F0-4909-482B-A754-E1893FFCBF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE9B7F0-4909-482B-A754-E1893FFCBF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE9B7F0-4909-482B-A754-E1893FFCBF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE9B7F0-4909-482B-A754-E1893FFCBF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF11EF5-E0E7-4483-9AFF-7FF8CC96AADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF11EF5-E0E7-4483-9AFF-7FF8CC96AADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF11EF5-E0E7-4483-9AFF-7FF8CC96AADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF11EF5-E0E7-4483-9AFF-7FF8CC96AADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8EEA7C2-E617-44F1-AC88-EED42E934740}
+	EndGlobalSection
+EndGlobal
